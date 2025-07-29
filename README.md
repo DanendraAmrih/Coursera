@@ -1,2 +1,3 @@
 # Coursera
-All of Danendra's Coursera project is here
+All of Danendra's Coursera project is here.
+For more information, check other branches.
